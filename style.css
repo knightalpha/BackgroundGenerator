@@ -1,0 +1,25 @@
+body{
+	background: linear-gradient(to right, red, yellow);
+	color: rgba(0,0,0,0.8);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	top: 19%;
+}
+
+h1{
+	color: rgba(0,0,0,0.8);
+	letter-spacing: 0.4em;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	width: 100%;
+}
+h3{
+	color: rgba(0,0,0,0.8);
+	letter-spacing: 0.4em;
+	text-align: center;
+	text-transform: none;
+	letter-spacing: .1em;
+	/*width: 100%;*/
+}
